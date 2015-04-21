@@ -1,2 +1,2 @@
 # quiz_example
-Example quiz for Mrs. S.
+http://gvanzin.github.io/quiz_example
