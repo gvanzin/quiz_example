@@ -71,7 +71,7 @@ It's not Banana
 
 Add X to both sides of the equation.  Add 10 to both sides of the equation.  The equation becomes 3X = 18.  Dive both sides by 3.  X then equals 6.
 
---- &multitext .codefont .outfont 
+--- &multitext .codefont .outfont .codemargin .outmargin
 
 Harry Potter and the Sorcerer's Stone - 152 minutes       
 
