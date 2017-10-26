@@ -105,7 +105,7 @@ Harry Potter and the Deathly Hallows: Part 2 - 130 minutes
 Mean = sum of all observations divided by the number of observations.  To calculate the median, put the numbers in order, and find the one in the middle.  If there are two middle numbers, average them.  The range is the smallest and the largest numbers.
 
 --- 
-Let me know if you want help building quizzes like this!
+
 
 
 
